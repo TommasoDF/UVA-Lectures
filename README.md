@@ -1,2 +1,2 @@
 # UVA-Lectures
-Some random stuffs hopefull helpfull for the courses I will follow.
+Some random stuffs hopefully helpful for the courses I will follow.
