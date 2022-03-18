@@ -1,2 +1,2 @@
 # UVA-Lectures
-Some random stuffs hopefully helpful for the courses I will follow.
+Code and some materials for courses I am going to follow. Mainly Pyhton and Julia.
